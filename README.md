@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=80&section=header&text=&fontSize=0" width="100%"/>
 
 ## INTRODUCE
 안녕하세요 개발자 김윤직입니다
@@ -8,11 +8,9 @@
 👌 개발능력만큼 소통능력을 키우기 위해 노력합니다<br />
 🦻 쉽게 설명할 수 없다면 모르는 것이라고 생각합니다<br />
 <br />
-<br />
+
 ## HOW I WORK
 개발 하는 것은 즐겁습니다. 기능을 만들어나가는 과정과 그 과정에서의 소통에서 즐거움을 느낍니다. 지금은 많이 부족하지만 여러 경험과 노력을 통해 좋은 영향을 끼치는 개발자가 되겠습니다.
-<br />
-<br />
 <br />
 ## SKILLS
 #### I use it often.
@@ -33,8 +31,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
-<br />
-<br />
 <br />
 
 
