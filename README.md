@@ -2,9 +2,8 @@
 안녕하세요 개발자 김윤직입니다
 
 ## VALUES
-😎 상호 성장할 수 있는 피드백에 가치를 둡니다<br />
-👌 개발능력만큼 소통능력을 키우기 위해 노력합니다<br />
-🦻 쉽게 설명할 수 없다면 모르는 것이라고 생각합니다<br />
+- 상호 성장할 수 있는 피드백에 가치를 둡니다<br />
+- 쉽게 설명할 수 없다면 모르는 것이라고 생각합니다<br />
 <br />
 
 ## HOW I WORK
@@ -22,11 +21,11 @@
 
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-    
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-47A248?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
 <br />
@@ -42,8 +41,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjikky&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-<br />
 <br />
 <br />
 
